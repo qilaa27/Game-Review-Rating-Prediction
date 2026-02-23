@@ -92,7 +92,7 @@ Weighted F1-score: **0.788**
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix_smote_tomek.png)
+![Confusion Matrix](confusion_matrix_smote_tomek.png)
 
 Observation:
 - Class 5 is still dominant
@@ -121,8 +121,5 @@ Observation:
 
 ## 🎥 Video Explanation
 
-[Insert your public video link here]
+[https://drive.google.com/file/d/13nkTuV_-HN2x-VEQBman0V0m0rgOhFEU/view?usp=sharing]
 
----
-
-## 📂 Repository Structure
