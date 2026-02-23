@@ -121,5 +121,5 @@ Observation:
 
 ## 🎥 Video Explanation
 
-[https://drive.google.com/file/d/13nkTuV_-HN2x-VEQBman0V0m0rgOhFEU/view?usp=sharing]
+[https://bit.ly/2702244284_UTSTextMining]
 
