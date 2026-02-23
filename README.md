@@ -15,6 +15,7 @@
 - Word cloud visualization
 
 🧹 **Text Preprocessing**
+
 Steps:
 - Lowercasing
 - Tokenization
@@ -33,16 +34,19 @@ Vector representing word importance in document.
 Vector learned based on surrounding words.
 
 🤖 **Machine Learning Models**
+
 Two ML algorithms were applied:
 - Model 1: Logistic Regression
 - Model 2: Random Forest
 Each model tuned with at least two hyperparameters.
 
 📈 **Performance Evaluation**
+
 Metrics used:
 - Accuracy
 - Precision
 - Recall
 - F1-score
-Performance Comparison
+
+**Performance Comparison**
 ![Tabel Summary](comparison_performance.png)
